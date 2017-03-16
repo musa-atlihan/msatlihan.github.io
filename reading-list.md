@@ -1,5 +1,11 @@
 # My Reading List of Papers
 
+### Convolutional Neural Networks:
+
+1. Gradient-based learning applied to document recognition. *Y. Lecun, L. Bottou, Y. Bengio, P. Haffner*. Proc. IEEE 86 (2002) 2278-2324
+    * **doi**: [10.1109/5.726791](10.1109/5.726791)
+    * **url**: [http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+
 ### ImageNet Challenges:
 
 ##### *Winners of large scale visiual recognition challenges*
@@ -39,6 +45,23 @@
     * **doi**: [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.59.381](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.59.381)
     * **url**: [http://www-liphy.ujf-grenoble.fr/pagesperso/barrat/sc/bak2.pdf](http://www-liphy.ujf-grenoble.fr/pagesperso/barrat/sc/bak2.pdf)
     * **comment**: About self-organized criticality.
+
+### Generative Adversarial Networks:
+
+1. NIPS 2016 Tutorial: Generative Adversarial Networks. *Ian Goodfellow*. arXiv1701.00160 (2016)
+    * **url**: [https://arxiv.org/pdf/1701.00160v1.pdf](https://arxiv.org/pdf/1701.00160v1.pdf)
+
+### Memory in NNs:
+
+1. Overcoming catastrophic forgetting in neural networks. *James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A. Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, Demis Hassabis, Claudia Clopath, Dharshan Kumaran, Raia Hadsell*. Proc Natl Acad Sci USA (2017) 201611835
+    * **doi**: [10.1073/pnas.1611835114](10.1073/pnas.1611835114)
+    * **comment**: Deepmind, elastic weight consolidation.
+
+### Evolution Strategies:
+
+##### *A Scalable Alternative to RL.*
+1. Evolution Strategies as a Scalable Alternative to Reinforcement Learning. *Tim Salimans, Jonathan Ho, Xi Chen, Ilya Sutskever*. arXiv1703.03864 (2017)
+    * **url**: [https://arxiv.org/abs/1703.03864](https://arxiv.org/abs/1703.03864)
 
 
 -
