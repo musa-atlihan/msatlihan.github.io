@@ -1,7 +1,7 @@
 # Site settings
 title: WPHW
 #description: "A minimal, responsive, ready to use blog template, built with Jekyll."
-url: "http://wphw.github.io/monochrome"
+url: "http://wphw.github.io/"
 author:
   name: "WPHW"
   #email: "sth@gmail.com"
