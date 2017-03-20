@@ -8,7 +8,7 @@
 
 ### ImageNet Challenges:
 
-##### *Winners of large scale visiual recognition challenges*
+*Winners of large scale visiual recognition challenges*
 1. Identity Mappings in Deep Residual Networks. *Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun*. arXiv1603.05027 (2016)
     * **url**: [https://arxiv.org/abs/1603.05027](https://arxiv.org/abs/1603.05027)
     * **comment**: modified architecture of ResNet.
@@ -59,7 +59,7 @@
 
 ### Evolution Strategies:
 
-##### *A Scalable Alternative to RL.*
+*A Scalable Alternative to RL.*
 1. Evolution Strategies as a Scalable Alternative to Reinforcement Learning. *Tim Salimans, Jonathan Ho, Xi Chen, Ilya Sutskever*. arXiv1703.03864 (2017)
     * **url**: [https://arxiv.org/abs/1703.03864](https://arxiv.org/abs/1703.03864)
 
