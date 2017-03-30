@@ -63,6 +63,17 @@
 1. Evolution Strategies as a Scalable Alternative to Reinforcement Learning. *Tim Salimans, Jonathan Ho, Xi Chen, Ilya Sutskever*. arXiv1703.03864 (2017)
     * **url**: [https://arxiv.org/abs/1703.03864](https://arxiv.org/abs/1703.03864)
 
+### NNs Model Improvements:
+
+1. Exploiting Cyclic Symmetry in Convolutional Neural Networks. *Sander Dieleman, Jeffrey De Fauw, Koray Kavukcuoglu*. arXiv1602.02660 (2016)
+    * **url**: [https://arxiv.org/pdf/1602.02660.pdf](https://arxiv.org/pdf/1602.02660.pdf)
+    * **comment**: Rotational-invariance.
+
+2. Improving neural networks by preventing co-adaptation of feature
+  detectors. *Geoffrey E. Hinton, Nitish Srivastava, Alex Krizhevsky, Ilya Sutskever, Ruslan R. Salakhutdinov*. arXiv1207.0580 (2012)
+    * **url**: [https://arxiv.org/pdf/1207.0580.pdf](https://arxiv.org/pdf/1207.0580.pdf)
+    * **comment**: Drop out technique to improve optimization: "When a large feedforward neural network is trained on a small training set, it typically performs poorly on held-out test data. This “overfitting” is greatly reduced by randomly omitting half of the feature detectors on each training case."
+
 
 -
 *Created with [papermark](https://github.com/wphw/papermark/).*
