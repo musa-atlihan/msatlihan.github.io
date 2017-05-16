@@ -210,8 +210,14 @@ img[title="Monochrome"] {
   }
 
 code {
-  color: lighten($text-color, 35%);
-  background-color: lighten($background-color, 35%);
+  color: lighten($text-color, 5%);
+  background-color: #f6f8fa;
+  white-space: pre-wrap;
+}
+
+pre{
+  background-color: #f6f8fa;
+  padding: 16px;
 }
 
 /* Set the vertical rhythm (and padding-left) for lists inside post content */
