@@ -1,5 +1,10 @@
 ## My Reading List of Papers
 
+### Autonomous Cars:
+
+1. End to End Learning for Self-Driving Cars. *Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba*. arXiv1604.07316 (2016)
+    * **url**: [https://arxiv.org/pdf/1604.07316.pdf](https://arxiv.org/pdf/1604.07316.pdf)
+
 ### Convolutional Neural Networks:
 
 1. Gradient-based learning applied to document recognition. *Y. Lecun, L. Bottou, Y. Bengio, P. Haffner*. Proc. IEEE 86 (2002) 2278-2324
